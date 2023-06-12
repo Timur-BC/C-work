@@ -1,80 +1,29 @@
-﻿// See https://aka.ms/new-console-template for more information
-// Console.WriteLine("Введите ваше имя");
-// string username = Console.ReadLine();
-// Console.Write("Привет ");
-// Console.Write(username);
+﻿
+int Max(int arg1, int arg2, int arg3) {
+    int result = arg1;
+    if (arg2 > result) result = arg2;
+    if (arg3 > result) result = arg3;
+    return result;
+}
 
-// Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
-// a = 5; b = 7 -> max = 7
-// a = 2 b = 10 -> max = 10
-// a = -9 b = -3 -> max = -3
+int a1 = 155555;
+int b1 = 12;
+int c1 = 999;
+int a2 = 77;
+int b2 = 66;
+int c2 = 55;
+int a3 = 44;
+int b3 = 33;
+int c3 = 222;
 
-// Console.Write("Введите первое число: ");
-//  int fNumber = Convert.ToInt32(Console.ReadLine());
+// int max1 = Max (a1, b1, c1);
+// int max2 = Max (a2, b2, c2);
+// int max3 = Max (a3, b3, c3);
+// int max = Max (max1, max2, max3);
 
-// Console.Write("Введите второе число: ");
-//  int sNumber = Convert.ToInt32(Console.ReadLine());
+int max = Max(
+    Max (a1, b1, c1),
+    Max (a2, b2, c2),
+    Max (a3, b3, c3));
 
-// int max = 0;
-// int min = 0;
-
-// if(fNumber > sNumber)
-// {
-//     max = fNumber;
-//     min = sNumber;
-// }
-// else
-// {
-//     max = sNumber;
-//     min = fNumber;
-// }
-// Console.WriteLine("Число = " + max + " больше чем " + "Число = " + min);
-//////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-// Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
-// 2, 3, 7 -> 7
-// 44 5 78 -> 78
-// 22 3 9 -> 22
-
-// Console.Write("Введите первое число:");
-//     int fNumber = Convert.ToInt32(Console.ReadLine());
-
-// Console.Write("Введите второе число:");
-//     int sNumber = Convert.ToInt32(Console.ReadLine());
-
-// Console.Write("Введите третье число:");
-//     int tNumber = Convert.ToInt32(Console.ReadLine());
-
-// int max = 0;
-
-// if (fNumber > max) {
-//     max = fNumber;
-// }
-// if (sNumber > max) {
-//     max = sNumber;
-// }
-// if (tNumber > max) {
-//     max = tNumber;
-// }
-
-// Console.WriteLine("Самое большое число: = " + max);
-//////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-// Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
-//  4 -> да
-// -3 -> нет
-//  7 -> нет
-
-// Console.Write("Введите числа четно ли:");
-//     int number = Convert.ToInt32(Console.ReadLine());
-
-// int chet = number % 2;
-
-// if(chet == 0) {
-//     Console.WriteLine("Делиться");
-// }
-//     else {
-//         Console.WriteLine("Не делиться");
-// }
-//////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+Console.WriteLine(max);

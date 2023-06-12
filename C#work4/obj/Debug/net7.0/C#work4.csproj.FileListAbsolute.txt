@@ -1,0 +1,15 @@
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work4\obj\Debug\net7.0\C#work4.csproj.AssemblyReference.cache
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work4\obj\Debug\net7.0\C#work4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work4\obj\Debug\net7.0\C#work4.AssemblyInfoInputs.cache
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work4\obj\Debug\net7.0\C#work4.AssemblyInfo.cs
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work4\obj\Debug\net7.0\C#work4.csproj.CoreCompileInputs.cache
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work4\bin\Debug\net7.0\C#work4.exe
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work4\bin\Debug\net7.0\C#work4.deps.json
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work4\bin\Debug\net7.0\C#work4.runtimeconfig.json
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work4\bin\Debug\net7.0\C#work4.dll
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work4\bin\Debug\net7.0\C#work4.pdb
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work4\obj\Debug\net7.0\C#work4.dll
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work4\obj\Debug\net7.0\refint\C#work4.dll
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work4\obj\Debug\net7.0\C#work4.pdb
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work4\obj\Debug\net7.0\C#work4.genruntimeconfig.cache
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work4\obj\Debug\net7.0\ref\C#work4.dll
