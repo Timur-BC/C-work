@@ -1,0 +1,15 @@
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work6\obj\Debug\net7.0\C#work6.csproj.AssemblyReference.cache
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work6\obj\Debug\net7.0\C#work6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work6\obj\Debug\net7.0\C#work6.AssemblyInfoInputs.cache
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work6\obj\Debug\net7.0\C#work6.AssemblyInfo.cs
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work6\obj\Debug\net7.0\C#work6.csproj.CoreCompileInputs.cache
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work6\bin\Debug\net7.0\C#work6.exe
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work6\bin\Debug\net7.0\C#work6.deps.json
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work6\bin\Debug\net7.0\C#work6.runtimeconfig.json
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work6\bin\Debug\net7.0\C#work6.dll
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work6\bin\Debug\net7.0\C#work6.pdb
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work6\obj\Debug\net7.0\C#work6.dll
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work6\obj\Debug\net7.0\refint\C#work6.dll
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work6\obj\Debug\net7.0\C#work6.pdb
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work6\obj\Debug\net7.0\C#work6.genruntimeconfig.cache
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work6\obj\Debug\net7.0\ref\C#work6.dll
