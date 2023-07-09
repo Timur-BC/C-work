@@ -1,0 +1,15 @@
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work11\bin\Debug\net7.0\C#work11.exe
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work11\bin\Debug\net7.0\C#work11.deps.json
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work11\bin\Debug\net7.0\C#work11.runtimeconfig.json
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work11\bin\Debug\net7.0\C#work11.dll
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work11\bin\Debug\net7.0\C#work11.pdb
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work11\obj\Debug\net7.0\C#work11.csproj.AssemblyReference.cache
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work11\obj\Debug\net7.0\C#work11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work11\obj\Debug\net7.0\C#work11.AssemblyInfoInputs.cache
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work11\obj\Debug\net7.0\C#work11.AssemblyInfo.cs
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work11\obj\Debug\net7.0\C#work11.csproj.CoreCompileInputs.cache
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work11\obj\Debug\net7.0\C#work11.dll
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work11\obj\Debug\net7.0\refint\C#work11.dll
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work11\obj\Debug\net7.0\C#work11.pdb
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work11\obj\Debug\net7.0\C#work11.genruntimeconfig.cache
+C:\Users\T.Byranbay\Documents\Рабочие место\C#\C#work11\obj\Debug\net7.0\ref\C#work11.dll
